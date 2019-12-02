@@ -1,2 +1,2 @@
 # kube
-kubernetes yaml
+kubernetes formation
